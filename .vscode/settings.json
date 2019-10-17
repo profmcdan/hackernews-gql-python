@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/Users/danielale/Documents/python-projects/gqlEnv/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.pycodestyleEnabled": true,
+  "python.linting.enabled": false
+}
